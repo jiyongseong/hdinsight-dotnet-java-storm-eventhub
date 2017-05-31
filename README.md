@@ -19,7 +19,7 @@ NOTE: This example requires a Storm on HDInsight cluster version 3.5. There are 
 * [Java](https://java.com). Java is used to package the topology when it is submitted to the HDInsight cluster.
 
     * The **JAVA_HOME** environment variable must point to the directory that contains Java.
-    * The **%JAVA_HOME%/bin** directory must be in the path
+    * The **%JAVA_HOME%\bin** directory must be in the path
 
 * **HDInsight Tools for Visual Studio** - [http://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/](http://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-visual-studio-tools-get-started/) has the steps to install and configure. This provides C# Storm topology templates and some utilities for working with HDInsight
 
